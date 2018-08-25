@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.done {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.input:valid{
+  background-color: white
+}
